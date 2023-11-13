@@ -1,0 +1,20 @@
+{
+  "name": "adviseu_test",
+  "version": "1.0.0",
+  "description": "Technical test for AdviseU",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "Heitor Sena",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
